@@ -1,0 +1,4 @@
+ul li:nth-child(2n + 1) {
+    border: 2px solid red;
+}
+
